@@ -1,6 +1,6 @@
 # 📱 Bot WhatsApp Masivo
 
-Este proyecto BETA es una aplicación desarrollada en **Node.js** que permite enviar mensajes masivos por **WhatsApp Web** de forma automatizada.  
+Este proyecto EXPERIMENTAL es una aplicación desarrollada en **Node.js** que permite enviar mensajes masivos por **WhatsApp Web** de forma automatizada.  
 Cuenta con una **interfaz web simple e intuitiva**, donde el usuario puede escanear el código QR para iniciar sesión en WhatsApp Web, redactar un mensaje y subir un archivo `.csv` con una lista de contactos a los que se enviará el mensaje.
 
 ---
